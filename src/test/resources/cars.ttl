@@ -1,0 +1,998 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Alvis_TE_21> a dbo:Automobile ;
+    rdfs:label "Alvis TE 21"@en ;
+    dbp:length 1.89e+02 ;
+    dbp:wheelbase 1.115e+02 ;
+    dbp:width 6.6e+01 .
+
+<http://dbpedia.org/resource/Armstrong_(cyclecar)> a dbo:Automobile ;
+    rdfs:label "Armstrong (cyclecar)"@en ;
+    dbp:length 1.2e+02 ;
+    dbp:wheelbase 8.7e+01 ;
+    dbp:width 5.8e+01 .
+
+<http://dbpedia.org/resource/Audi_A3> a dbo:Automobile ;
+    rdfs:label "Audi A3"@en ;
+    dbp:length 2e+00 ;
+    dbp:weight 3e+00 ;
+    dbp:wheelbase 2e+00 ;
+    dbp:width 2e+00 .
+
+<http://dbpedia.org/resource/Audi_A8> a dbo:Automobile ;
+    rdfs:label "Audi A8"@en ;
+    dbp:length 5.131e+03 ;
+    dbp:weight 2.5e+00 ;
+    dbp:wheelbase 2.992e+03 ;
+    dbp:width 2e+02 .
+
+<http://dbpedia.org/resource/Audi_TT> a dbo:Automobile ;
+    rdfs:label "Audi TT"@en ;
+    dbp:length 4.178e+03 ;
+    dbp:wheelbase 2.422e+03 ;
+    dbp:width 2e+02 .
+
+<http://dbpedia.org/resource/Austin_12> a dbo:Automobile ;
+    rdfs:label "Austin 12"@en ;
+    dbp:length 7.86e+02 ;
+    dbp:weight 1.6e+01 ;
+    dbp:wheelbase 2.44e+02 ;
+    dbp:width 3.03e+02 .
+
+<http://dbpedia.org/resource/Austin_Ambassador> a dbo:Automobile ;
+    rdfs:label "Austin Ambassador"@en ;
+    dbp:length 1.79e+02 ;
+    dbp:wheelbase 1.05e+02 ;
+    dbp:width 6.95e+01 .
+
+<http://dbpedia.org/resource/Austin_Westminster> a dbo:Automobile ;
+    rdfs:label "Austin Westminster"@en ;
+    dbp:length 1.956e+03 ;
+    dbp:wheelbase 1.956e+03 .
+
+<http://dbpedia.org/resource/BMW_5_Series_(G60)> a dbo:Automobile ;
+    rdfs:label "BMW i5"@en ;
+    dbp:length 5.06e+03 ;
+    dbp:wheelbase 2.995e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Bentley_Bentayga> a dbo:Automobile ;
+    rdfs:label "Bentley Bentayga"@en ;
+    dbp:length 5.141e+03 ;
+    dbp:wheelbase 2.992e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Buick_Century> a dbo:Automobile ;
+    rdfs:label "Buick Century"@en ;
+    dbp:length 2.084e+02 ;
+    dbp:weight 3.13e+03 ;
+    dbp:wheelbase 1.19e+02 .
+
+<http://dbpedia.org/resource/Buick_Electra> a dbo:Automobile ;
+    rdfs:label "Buick Electra"@en ;
+    dbp:length 1.959e+03 ;
+    dbp:wheelbase 1.965e+03 ;
+    dbp:width 1.961e+03 .
+
+<http://dbpedia.org/resource/Buick_Envision> a dbo:Automobile ;
+    rdfs:label "Buick Envision"@en ;
+    dbp:length 4.636e+03 ;
+    dbp:wheelbase 2.779e+03 .
+
+<http://dbpedia.org/resource/Buick_Roadmaster> a dbo:Automobile ;
+    rdfs:label "Buick Roadmaster"@en ;
+    dbp:length 1.94e+03 ;
+    dbp:wheelbase 1.949e+03 ;
+    dbp:width 1.94e+03 .
+
+<http://dbpedia.org/resource/Buick_Special> a dbo:Automobile ;
+    rdfs:label "Buick Special"@en ;
+    dbp:length 1.968e+03 ;
+    dbp:wheelbase 1.17e+02 .
+
+<http://dbpedia.org/resource/Buick_Super> a dbo:Automobile ;
+    rdfs:label "Buick Super"@en ;
+    dbp:length 1.94e+03 ;
+    dbp:wheelbase 1.949e+03 ;
+    dbp:width 1.94e+03 .
+
+<http://dbpedia.org/resource/Cadillac_Eldorado> a dbo:Automobile ;
+    rdfs:label "Cadillac Eldorado"@en ;
+    dbp:length 1.954e+03 ;
+    dbp:wheelbase 6.2e+01 ;
+    dbp:width 4e+00 .
+
+<http://dbpedia.org/resource/Cadillac_Series_61> a dbo:Automobile ;
+    rdfs:label "Cadillac Series 61"@en ;
+    dbp:length 1.948e+03 ;
+    dbp:wheelbase 1.948e+03 ;
+    dbp:width 1.948e+03 .
+
+<http://dbpedia.org/resource/Cadillac_Series_62> a dbo:Automobile ;
+    rdfs:label "Cadillac Series 62"@en ;
+    dbp:length 1.94e+03 ;
+    dbp:wheelbase 1.94e+03 ;
+    dbp:width 1.94e+03 .
+
+<http://dbpedia.org/resource/Cadillac_Series_65> a dbo:Automobile ;
+    rdfs:label "Cadillac Series 65"@en ;
+    dbp:length 1.937e+03 ;
+    dbp:wheelbase 1.937e+03 ;
+    dbp:width 1.937e+03 .
+
+<http://dbpedia.org/resource/Cadillac_Sixty_Special> a dbo:Automobile ;
+    rdfs:label "Cadillac Sixty Special"@en ;
+    dbp:length 1.938e+03 ;
+    dbp:wheelbase 1.938e+03 ;
+    dbp:width 1.938e+03 .
+
+<http://dbpedia.org/resource/Chery_Q21> a dbo:Automobile ;
+    rdfs:label "Chery Q21"@en ;
+    dbp:length 3.436e+03 ;
+    dbp:wheelbase 2.4e+03 ;
+    dbp:width 1.481e+03 .
+
+<http://dbpedia.org/resource/Chevrolet_Cavalier> a dbo:Automobile ;
+    rdfs:label "Chevrolet Cavalier"@en ;
+    dbp:length 1.988e+03 ;
+    dbp:wheelbase 1.988e+03 ;
+    dbp:width 2e+00 .
+
+<http://dbpedia.org/resource/Chrysler_Chronos> a dbo:Automobile ;
+    rdfs:label "Chrysler Chronos"@en ;
+    dbp:length 2.054e+02 ;
+    dbp:weight 4.209e+03 ;
+    dbp:wheelbase 1.309e+02 ;
+    dbp:width 7.65e+01 .
+
+<http://dbpedia.org/resource/Chrysler_New_Yorker> a dbo:Automobile ;
+    rdfs:label "Chrysler New Yorker"@en ;
+    dbp:length 2.192e+02 ;
+    dbp:wheelbase 1.963e+03 ;
+    dbp:width 1.988e+03 .
+
+<http://dbpedia.org/resource/Chrysler_Phaeton> a dbo:Automobile ;
+    rdfs:label "Chrysler Phaeton"@en ;
+    dbp:length 5.461e+03 ;
+    dbp:wheelbase 3.353e+03 ;
+    dbp:width 1.981e+03 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(AP5)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (AP5)"@en ;
+    dbp:length 1.854e+02 ;
+    dbp:weight 2.679e+03 ;
+    dbp:wheelbase 1.06e+02 ;
+    dbp:width 6.9e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(AP6)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (AP6)"@en ;
+    dbp:length 1.879e+02 ;
+    dbp:weight 2.744e+03 ;
+    dbp:wheelbase 1.06e+02 ;
+    dbp:width 6.9e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(VC)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (VC)"@en ;
+    dbp:length 1.883e+02 ;
+    dbp:weight 2.774e+03 ;
+    dbp:wheelbase 1.06e+02 ;
+    dbp:width 6.9e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(VE)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (VE)"@en ;
+    dbp:length 1.937e+02 ;
+    dbp:weight 2.95e+03 ;
+    dbp:wheelbase 1.08e+02 ;
+    dbp:width 6.97e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(VF)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (VF)"@en ;
+    dbp:length 1.923e+02 ;
+    dbp:weight 2.95e+03 ;
+    dbp:wheelbase 1.08e+02 ;
+    dbp:width 6.97e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(VH)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (VH)"@en ;
+    dbp:length 1.928e+02 ;
+    dbp:weight 6e+00 ;
+    dbp:wheelbase 1.11e+02 ;
+    dbp:width 7.42e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_(VK)> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant (VK)"@en ;
+    dbp:length 1.927e+02 ;
+    dbp:weight 3.1e+03 ;
+    dbp:wheelbase 1.05e+02 ;
+    dbp:width 7.48e+01 .
+
+<http://dbpedia.org/resource/Chrysler_Valiant_Charger> a dbo:Automobile ;
+    rdfs:label "Chrysler Valiant Charger"@en ;
+    dbp:length 4.564e+03 ;
+    dbp:wheelbase 2.667e+03 ;
+    dbp:width 1.885e+03 .
+
+<http://dbpedia.org/resource/Citroën_Activa> a dbo:Automobile ;
+    rdfs:label "Citroën Activa"@en ;
+    dbp:length 2e+00 ;
+    dbp:wheelbase 2e+00 ;
+    dbp:width 2e+00 .
+
+<http://dbpedia.org/resource/Citroën_C3-XR> a dbo:Automobile ;
+    rdfs:label "Citroën C3-XR"@en ;
+    dbp:length 4.26e+03 ;
+    dbp:wheelbase 2.65e+03 ;
+    dbp:width 2.5e+02 .
+
+<http://dbpedia.org/resource/Citroën_G_Van> a dbo:Automobile ;
+    rdfs:label "Citroën G Van"@en ;
+    dbp:length 3.47e+03 ;
+    dbp:wheelbase 2e+03 ;
+    dbp:width 1.68e+03 .
+
+<http://dbpedia.org/resource/Citroën_Zabrus> a dbo:Automobile ;
+    rdfs:label "Citroën Zabrus"@en ;
+    dbp:length 4.3e+03 ;
+    dbp:wheelbase 2.65e+03 ;
+    dbp:width 1.8e+02 .
+
+<http://dbpedia.org/resource/Csepel_D-344> a dbo:Automobile ;
+    rdfs:label "Csepel D-344"@en ;
+    dbp:length 6.716e+03 ;
+    dbp:weight 5.7e+03 ;
+    dbp:wheelbase 3.75e+03 ;
+    dbp:width 2.498e+03 .
+
+<http://dbpedia.org/resource/Daewoo_FX212_Super_Cruiser> a dbo:Automobile ;
+    rdfs:label "Daewoo FX212 Super Cruiser"@en ;
+    dbp:length 1.2e+04 ;
+    dbp:wheelbase 6.1e+03 ;
+    dbp:width 2.49e+03 .
+
+<http://dbpedia.org/resource/Daimler_DS420> a dbo:Automobile ;
+    rdfs:label "Daimler DS420"@en ;
+    dbp:length 5.74e+02 ;
+    dbp:weight 2.133e+03 ;
+    dbp:wheelbase 3.58e+02 ;
+    dbp:width 1.97e+02 .
+
+<http://dbpedia.org/resource/Datsun_160Z> a dbo:Automobile ;
+    rdfs:label "Datsun 160Z"@en ;
+    dbp:length 4.045e+03 ;
+    dbp:weight 9.7e+02 ;
+    dbp:wheelbase 2.34e+03 ;
+    dbp:width 1.545e+03 .
+
+<http://dbpedia.org/resource/Dodge_Dakota> a dbo:Automobile ;
+    rdfs:label "Dodge Dakota"@en ;
+    dbp:length 1.987e+03 ;
+    dbp:wheelbase 1.119e+02 ;
+    dbp:width 1.987e+03 .
+
+<http://dbpedia.org/resource/Dodge_Dart> a dbo:Automobile ;
+    rdfs:label "Dodge Dart"@en ;
+    dbp:length 1.96e+02 ;
+    dbp:wheelbase 1.11e+02 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Dodge_Daytona> a dbo:Automobile ;
+    rdfs:label "Dodge Daytona"@en ;
+    dbp:length 1.987e+03 ;
+    dbp:wheelbase 1.987e+03 .
+
+<http://dbpedia.org/resource/Dodge_Polara> a dbo:Automobile ;
+    rdfs:label "Dodge Polara"@en ;
+    dbp:length 1.965e+03 ;
+    dbp:wheelbase 1.962e+03 ;
+    dbp:width 1.969e+03 .
+
+<http://dbpedia.org/resource/Dodge_Super_Bee> a dbo:Automobile ;
+    rdfs:label "Dodge Super Bee"@en ;
+    dbp:length 5.083e+02 ;
+    dbp:wheelbase 3.048e+02 ;
+    dbp:width 1.89e+02 .
+
+<http://dbpedia.org/resource/Dodge_ZEO> a dbo:Automobile ;
+    rdfs:label "Dodge ZEO"@en ;
+    dbp:length 1.728e+02 ;
+    dbp:wheelbase 1.099e+02 ;
+    dbp:width 7.65e+01 .
+
+<http://dbpedia.org/resource/Elation_Freedom_Iconic_Collection> a dbo:Automobile ;
+    rdfs:label "Elation Freedom Iconic Collection"@en ;
+    dbp:length 4.495e+03 ;
+    dbp:wheelbase 2.7e+03 ;
+    dbp:width 2e+03 .
+
+<http://dbpedia.org/resource/Facel_Vega_Excellence> a dbo:Automobile ;
+    rdfs:label "Facel Vega Excellence"@en ;
+    dbp:length 2e+00 ;
+    dbp:wheelbase 2e+00 .
+
+<http://dbpedia.org/resource/Farizon_SV> a dbo:Automobile ;
+    rdfs:label "Farizon SV"@en ;
+    dbp:length 1e+00 ;
+    dbp:wheelbase 1e+00 ;
+    dbp:width 1e+00 .
+
+<http://dbpedia.org/resource/Fiat_1300_and_1500> a dbo:Automobile ;
+    rdfs:label "Fiat 1300 and 1500"@en ;
+    dbp:length 4.03e+03 ;
+    dbp:wheelbase 2.425e+03 .
+
+<http://dbpedia.org/resource/Fiat_1800_and_2100> a dbo:Automobile ;
+    rdfs:label "Fiat 1800 and 2100"@en ;
+    dbp:length 4.465e+03 ;
+    dbp:wheelbase 2.65e+03 .
+
+<http://dbpedia.org/resource/Fiat_Regata> a dbo:Automobile ;
+    rdfs:label "Fiat Regata"@en ;
+    dbp:length 1.985e+03 ;
+    dbp:wheelbase 1.985e+03 .
+
+<http://dbpedia.org/resource/Force_Gurkha> a dbo:Automobile ;
+    rdfs:label "Force Gurkha"@en ;
+    dbp:length 4.116e+03 ;
+    dbp:weight 1.964e+03 ;
+    dbp:wheelbase 2.4e+03 ;
+    dbp:width 1.812e+03 .
+
+<http://dbpedia.org/resource/Ford_F-Max> a dbo:Automobile ;
+    rdfs:label "Ford F-Max"@en ;
+    dbp:length 5.925e+03 ;
+    dbp:weight 7.379e+03 ;
+    dbp:wheelbase 3.6e+03 ;
+    dbp:width 2.54e+03 .
+
+<http://dbpedia.org/resource/Ford_F-Series_(eighth_generation)> a dbo:Automobile ;
+    rdfs:label "Ford F-Series (eighth generation)"@en ;
+    dbp:length 4.8e+02 ;
+    dbp:wheelbase 4.8e+02 .
+
+<http://dbpedia.org/resource/Ford_F-Series_(seventh_generation)> a dbo:Automobile ;
+    rdfs:label "Ford F-Series (seventh generation)"@en ;
+    dbp:length 4.8e+02 ;
+    dbp:wheelbase 4.8e+02 .
+
+<http://dbpedia.org/resource/Ford_F-Series_(tenth_generation)> a dbo:Automobile ;
+    rdfs:label "Ford F-Series (tenth generation)"@en ;
+    dbp:length 3.9e+02 ;
+    dbp:wheelbase 3.9e+02 .
+
+<http://dbpedia.org/resource/Ford_F-Series_(twelfth_generation)> a dbo:Automobile ;
+    rdfs:label "Ford F-Series (twelfth generation)"@en ;
+    dbp:length 2.009e+03 ;
+    dbp:weight 4.685e+03 ;
+    dbp:wheelbase 2.009e+03 ;
+    dbp:width 2.009e+03 .
+
+<http://dbpedia.org/resource/Ford_Fairlane_500_Skyliner> a dbo:Automobile ;
+    rdfs:label "Ford Fairlane 500 Skyliner"@en ;
+    dbp:length 2.108e+02 ;
+    dbp:wheelbase 1.18e+02 .
+
+<http://dbpedia.org/resource/Ford_Model_91> a dbo:Automobile ;
+    rdfs:label "Ford Model 91"@en ;
+    dbp:length 1.76e+02 ;
+    dbp:wheelbase 1.06e+02 .
+
+<http://dbpedia.org/resource/Ford_Model_C_Ten> a dbo:Automobile ;
+    rdfs:label "Ford Model C Ten"@en ;
+    dbp:length 1.45e+02 ;
+    dbp:weight 1.736e+03 ;
+    dbp:wheelbase 9e+01 ;
+    dbp:width 5.7e+01 .
+
+<http://dbpedia.org/resource/Ford_Probe> a dbo:Automobile ;
+    rdfs:label "Ford Probe"@en ;
+    dbp:length 1.993e+03 ;
+    dbp:wheelbase 1.993e+03 ;
+    dbp:width 1.989e+03 .
+
+<http://dbpedia.org/resource/Ford_Versailles> a dbo:Automobile ;
+    rdfs:label "Ford Versailles"@en ;
+    dbp:length 4.57e+02 ;
+    dbp:weight 1.162e+03 ;
+    dbp:wheelbase 2.55e+02 ;
+    dbp:width 1.69e+02 .
+
+<http://dbpedia.org/resource/Forthing_CM7> a dbo:Automobile ;
+    rdfs:label "Forthing CM7"@en ;
+    dbp:length 5.15e+03 ;
+    dbp:wheelbase 3.2e+03 .
+
+<http://dbpedia.org/resource/GAZ-31029> a dbo:Automobile ;
+    rdfs:label "GAZ-31029"@en ;
+    dbp:length 4.885e+03 ;
+    dbp:weight 1.39e+03 ;
+    dbp:wheelbase 2.8e+03 ;
+    dbp:width 1.8e+03 .
+
+<http://dbpedia.org/resource/GAZ-46> a dbo:Automobile ;
+    rdfs:label "GAZ-46"@en ;
+    dbp:length 5.07e+02 ;
+    dbp:weight 1.27e+03 ;
+    dbp:wheelbase 2.3e+02 ;
+    dbp:width 1.735e+03 .
+
+<http://dbpedia.org/resource/GTA_MyCar> a dbo:Automobile ;
+    rdfs:label "GTA MyCar"@en ;
+    dbp:length 2.653e+03 ;
+    dbp:wheelbase 1.691e+03 ;
+    dbp:width 1.396e+03 .
+
+<http://dbpedia.org/resource/GTM_Libra> a dbo:Automobile ;
+    rdfs:label "GTM Libra"@en ;
+    dbp:length 3.56e+00 ;
+    dbp:weight 6.95e+02 ;
+    dbp:wheelbase 2.32e+00 ;
+    dbp:width 1.65e+00 .
+
+<http://dbpedia.org/resource/Genesis_G90> a dbo:Automobile ;
+    rdfs:label "Genesis G90"@en ;
+    dbp:length 5.205e+03 ;
+    dbp:wheelbase 3.18e+03 .
+
+<http://dbpedia.org/resource/Giocattolo> a dbo:Automobile ;
+    rdfs:label "Giocattolo"@en ;
+    dbp:length 4.03e+03 ;
+    dbp:weight 1.14e+03 ;
+    dbp:wheelbase 2.455e+03 ;
+    dbp:width 1.76e+03 .
+
+<http://dbpedia.org/resource/Great_Wall_Haval_H3> a dbo:Automobile ;
+    rdfs:label "Great Wall Haval H3"@en ;
+    dbp:length 6.72e+03 ;
+    dbp:wheelbase 4.8e+03 .
+
+<http://dbpedia.org/resource/Great_Wall_Pegasus> a dbo:Automobile ;
+    rdfs:label "Great Wall Pegasus"@en ;
+    dbp:length 4.82e+03 ;
+    dbp:weight 1.625e+03 ;
+    dbp:wheelbase 2.8e+03 ;
+    dbp:width 1.7e+03 .
+
+<http://dbpedia.org/resource/Great_Wall_Wingle> a dbo:Automobile ;
+    rdfs:label "Great Wall Wingle"@en ;
+    dbp:length 5.395e+03 ;
+    dbp:wheelbase 3.35e+03 .
+
+<http://dbpedia.org/resource/Hanomag_2/10_PS> a dbo:Automobile ;
+    rdfs:label "Hanomag 2/10 PS"@en ;
+    dbp:length 2.78e+03 ;
+    dbp:wheelbase 1.92e+03 ;
+    dbp:width 1.18e+03 .
+
+<http://dbpedia.org/resource/Hino_Blue_Ribbon> a dbo:Automobile ;
+    rdfs:label "Hino Blue Ribbon"@en ;
+    dbp:length 6.48e+02 ;
+    dbp:wheelbase 5.67e+00 ;
+    dbp:width 2.49e+00 .
+
+<http://dbpedia.org/resource/Holden_HQ> a dbo:Automobile ;
+    rdfs:label "Holden HQ"@en ;
+    dbp:length 1.875e+02 ;
+    dbp:wheelbase 1.11e+02 ;
+    dbp:width 7.4e+01 .
+
+<http://dbpedia.org/resource/Honda_Integra> a dbo:Automobile ;
+    rdfs:label "Honda Integra"@en ;
+    dbp:length 3e+00 ;
+    dbp:wheelbase 3e+00 ;
+    dbp:width 1.99e+03 .
+
+<http://dbpedia.org/resource/Hotchkiss_Anjou> a dbo:Automobile ;
+    rdfs:label "Hotchkiss Anjou"@en ;
+    dbp:length 4e+00 ;
+    dbp:wheelbase 4e+00 .
+
+<http://dbpedia.org/resource/Hyundai_Aero> a dbo:Automobile ;
+    rdfs:label "Hyundai Aero"@en ;
+    dbp:length 1.2e+04 ;
+    dbp:wheelbase 6.15e+03 ;
+    dbp:width 2.49e+03 .
+
+<http://dbpedia.org/resource/Hyundai_Dynasty> a dbo:Automobile ;
+    rdfs:label "Hyundai Dynasty"@en ;
+    dbp:length 4.98e+03 ;
+    dbp:wheelbase 2.745e+03 .
+
+<http://dbpedia.org/resource/Hyundai_Santa_Fe> a dbo:Automobile ;
+    rdfs:label "Hyundai Santa Fe"@en ;
+    dbp:length 4.77e+03 ;
+    dbp:wheelbase 2.765e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Hyundai_Sonata> a dbo:Automobile ;
+    rdfs:label "Hyundai Sonata"@en ;
+    dbp:length 4.8e+03 ;
+    dbp:wheelbase 2.84e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Hyundai_Stellar> a dbo:Automobile ;
+    rdfs:label "Hyundai Stellar"@en ;
+    dbp:length 4.416e+03 ;
+    dbp:weight 1e+03 ;
+    dbp:wheelbase 2.579e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Hyundai_i10> a dbo:Automobile ;
+    rdfs:label "Hyundai i10"@en ;
+    dbp:length 3.645e+03 ;
+    dbp:wheelbase 2.385e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/IFA_G5> a dbo:Automobile ;
+    rdfs:label "IFA G5"@en ;
+    dbp:length 7.175e+03 ;
+    dbp:weight 7.85e+03 ;
+    dbp:wheelbase 3.8e+03 ;
+    dbp:width 2.5e+03 .
+
+<http://dbpedia.org/resource/IFA_H6> a dbo:Automobile ;
+    rdfs:label "IFA H6"@en ;
+    dbp:length 8e+03 ;
+    dbp:weight 6.65e+03 ;
+    dbp:wheelbase 4.5e+03 ;
+    dbp:width 2.5e+03 .
+
+<http://dbpedia.org/resource/Infiniti_M> a dbo:Automobile ;
+    rdfs:label "Infiniti M"@en ;
+    dbp:length 2.006e+03 ;
+    dbp:wheelbase 2.9e+03 .
+
+<http://dbpedia.org/resource/Infiniti_Q45> a dbo:Automobile ;
+    rdfs:label "Infiniti Q45"@en ;
+    dbp:length 1.996e+03 ;
+    dbp:wheelbase 1.99e+03 .
+
+<http://dbpedia.org/resource/Infiniti_Q70> a dbo:Automobile ;
+    rdfs:label "Infiniti Q70"@en ;
+    dbp:length 4.945e+03 ;
+    dbp:weight 2.2e+00 ;
+    dbp:wheelbase 2.9e+03 .
+
+<http://dbpedia.org/resource/Isuzu_Trooper> a dbo:Automobile ;
+    rdfs:label "Isuzu Trooper"@en ;
+    dbp:length 3e+00 ;
+    dbp:wheelbase 3e+00 .
+
+<http://dbpedia.org/resource/JCB_Dieselmax> a dbo:Automobile ;
+    rdfs:label "JCB Dieselmax"@en ;
+    dbp:length 9.1e+00 ;
+    dbp:weight 2.7e+00 ;
+    dbp:wheelbase 5.9e+00 ;
+    dbp:width 1.15e+00 .
+
+<http://dbpedia.org/resource/Jaguar_XE> a dbo:Automobile ;
+    rdfs:label "Jaguar XE"@en ;
+    dbp:length 4.672e+03 ;
+    dbp:wheelbase 2.835e+03 .
+
+<http://dbpedia.org/resource/Jelcz_M11> a dbo:Automobile ;
+    rdfs:label "Jelcz M11"@en ;
+    dbp:length 1.1e+01 ;
+    dbp:wheelbase 5.4e+00 ;
+    dbp:width 2.5e+00 .
+
+<http://dbpedia.org/resource/Jelcz_PR110> a dbo:Automobile ;
+    rdfs:label "Jelcz PR110"@en ;
+    dbp:length 1.2e+01 ;
+    dbp:weight 1.728e+04 ;
+    dbp:wheelbase 6.1e+00 ;
+    dbp:width 2.5e+00 .
+
+<http://dbpedia.org/resource/Kia_Combi> a dbo:Automobile ;
+    rdfs:label "Kia Combi"@en ;
+    dbp:length 6.3e+03 ;
+    dbp:wheelbase 4.015e+03 ;
+    dbp:width 2e+03 .
+
+<http://dbpedia.org/resource/Kia_Concord> a dbo:Automobile ;
+    rdfs:label "Kia Concord"@en ;
+    dbp:length 4.43e+03 ;
+    dbp:weight 9.9e+02 ;
+    dbp:wheelbase 2.52e+03 ;
+    dbp:width 1.705e+03 .
+
+<http://dbpedia.org/resource/Kia_K5> a dbo:Automobile ;
+    rdfs:label "Kia K5"@en ;
+    dbp:length 4.905e+03 ;
+    dbp:wheelbase 2.85e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/KrAZ-5401> a dbo:Automobile ;
+    rdfs:label "KrAZ-5401"@en ;
+    dbp:length 1e+00 ;
+    dbp:wheelbase 1e+00 ;
+    dbp:width 2.5e+03 .
+
+<http://dbpedia.org/resource/Lancia_Theta> a dbo:Automobile ;
+    rdfs:label "Lancia Theta"@en ;
+    dbp:length 4.65e+02 ;
+    dbp:wheelbase 3.1e+02 ;
+    dbp:width 1.615e+02 .
+
+<http://dbpedia.org/resource/Lincoln_Continental_Mark_VI> a dbo:Automobile ;
+    rdfs:label "Lincoln Continental Mark VI"@en ;
+    dbp:length 2e+00 ;
+    dbp:wheelbase 2e+00 .
+
+<http://dbpedia.org/resource/M520_Goer> a dbo:Automobile ;
+    rdfs:label "M520 Goer"@en ;
+    dbp:length 5.79e+04 ;
+    dbp:weight 2.7e+04 ;
+    dbp:wheelbase 3.582e+04 ;
+    dbp:width 1.644e+04 .
+
+<http://dbpedia.org/resource/Mack_Pioneer> a dbo:Automobile ;
+    rdfs:label "Mack Pioneer"@en ;
+    dbp:length -1.5e+03 ;
+    dbp:weight 1.3e+04 ;
+    dbp:wheelbase -2.43e+02 ;
+    dbp:width -1e+02 .
+
+<http://dbpedia.org/resource/Mazda_Capella> a dbo:Automobile ;
+    rdfs:label "Mazda Capella"@en ;
+    dbp:length 4.575e+03 ;
+    dbp:wheelbase 2.575e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Mazda_MX-5_(ND)> a dbo:Automobile ;
+    rdfs:label "Mazda MX-5 (ND)"@en ;
+    dbp:length 3.945e+03 ;
+    dbp:weight 1.09e+03 ;
+    dbp:wheelbase 2.265e+03 ;
+    dbp:width 1.68e+03 .
+
+<http://dbpedia.org/resource/Mercedes-Benz_W140> a dbo:Automobile ;
+    rdfs:label "Mercedes-Benz W140"@en ;
+    dbp:length 5.113e+03 ;
+    dbp:weight 1.88e+03 ;
+    dbp:wheelbase 3.04e+03 ;
+    dbp:width 1.886e+03 .
+
+<http://dbpedia.org/resource/Mercury_Cougar> a dbo:Automobile ;
+    rdfs:label "Mercury Cougar"@en ;
+    dbp:length 1.967e+03 ;
+    dbp:weight 3.528e+03 ;
+    dbp:wheelbase 1.055e+02 ;
+    dbp:width 1.967e+03 .
+
+<http://dbpedia.org/resource/Mitsubishi_Chariot> a dbo:Automobile ;
+    rdfs:label "Mitsubishi Chariot"@en ;
+    dbp:length 1.991e+03 ;
+    dbp:weight 1.133e+03 ;
+    dbp:wheelbase 1.991e+03 ;
+    dbp:width 1.998e+03 .
+
+<http://dbpedia.org/resource/Mitsubishi_Fuso_Aero_Bus> a dbo:Automobile ;
+    rdfs:label "Mitsubishi Fuso Aero Bus"@en ;
+    dbp:length 1.2e+04 ;
+    dbp:wheelbase 6.5e+03 ;
+    dbp:width 2.5e+03 .
+
+<http://dbpedia.org/resource/Mitsubishi_Fuso_Aero_Star> a dbo:Automobile ;
+    rdfs:label "Mitsubishi Fuso Aero Star"@en ;
+    dbp:length 6.3e+02 ;
+    dbp:wheelbase 4.8e+00 ;
+    dbp:width 2.5e+00 .
+
+<http://dbpedia.org/resource/Morgan_Aero_8> a dbo:Automobile ;
+    rdfs:label "Morgan Aero 8"@en ;
+    dbp:length 4.12e+00 ;
+    dbp:weight 1.18e+03 ;
+    dbp:wheelbase 2.53e+00 ;
+    dbp:width 1.77e+00 .
+
+<http://dbpedia.org/resource/Morris_Cowley> a dbo:Automobile ;
+    rdfs:label "Morris Cowley"@en ;
+    dbp:length 1.5e+02 ;
+    dbp:weight 2.352e+03 ;
+    dbp:wheelbase 1.02e+02 ;
+    dbp:width 5.85e+01 .
+
+<http://dbpedia.org/resource/Morris_Eight> a dbo:Automobile ;
+    rdfs:label "Morris Eight"@en ;
+    dbp:length 1.44e+02 ;
+    dbp:wheelbase 8.9e+01 .
+
+<http://dbpedia.org/resource/Morris_Oxford_bullnose> a dbo:Automobile ;
+    rdfs:label "Morris Oxford bullnose"@en ;
+    dbp:length 2e+00 ;
+    dbp:weight 1.921e+03 ;
+    dbp:wheelbase 1.919e+03 .
+
+<http://dbpedia.org/resource/Morris_Six_(1928)> a dbo:Automobile ;
+    rdfs:label "Morris Six (1928)"@en ;
+    dbp:length 8.49e+02 ;
+    dbp:wheelbase 2.48e+02 ;
+    dbp:width 3e+02 .
+
+<http://dbpedia.org/resource/Morris_Twelve> a dbo:Automobile ;
+    rdfs:label "Morris Twelve"@en ;
+    dbp:length 1.6e+02 ;
+    dbp:weight 2e+01 ;
+    dbp:wheelbase 2.4e+02 .
+
+<http://dbpedia.org/resource/Nissan_300ZX> a dbo:Automobile ;
+    rdfs:label "Nissan 300ZX"@en ;
+    dbp:length 2e+00 ;
+    dbp:wheelbase 2e+00 ;
+    dbp:width 2e+00 .
+
+<http://dbpedia.org/resource/Nissan_President> a dbo:Automobile ;
+    rdfs:label "Nissan President"@en ;
+    dbp:length 5.28e+03 ;
+    dbp:wheelbase 3.03e+03 .
+
+<http://dbpedia.org/resource/Nissan_Qashqai> a dbo:Automobile ;
+    rdfs:label "Nissan Qashqai"@en ;
+    dbp:length 4.315e+03 ;
+    dbp:wheelbase 2.63e+03 .
+
+<http://dbpedia.org/resource/Nissan_Terrano_II> a dbo:Automobile ;
+    rdfs:label "Nissan Terrano II"@en ;
+    dbp:length 3e+00 ;
+    dbp:wheelbase 3e+00 .
+
+<http://dbpedia.org/resource/Nobe_GT100> a dbo:Automobile ;
+    rdfs:label "Nobe GT100"@en ;
+    dbp:length 1.437e+02 ;
+    dbp:wheelbase 5.95e+01 ;
+    dbp:width 6.14e+01 .
+
+<http://dbpedia.org/resource/Oldsmobile_98> a dbo:Automobile ;
+    rdfs:label "Oldsmobile 98"@en ;
+    dbp:length 1.948e+03 ;
+    dbp:wheelbase 1.948e+03 ;
+    dbp:width 1.951e+03 .
+
+<http://dbpedia.org/resource/Oldsmobile_Cutlass> a dbo:Automobile ;
+    rdfs:label "Oldsmobile Cutlass"@en ;
+    dbp:length 2e+00 ;
+    dbp:wheelbase 2e+00 ;
+    dbp:width 2e+00 .
+
+<http://dbpedia.org/resource/Oshkosh_MB-5> a dbo:Automobile ;
+    rdfs:label "Oshkosh MB-5"@en ;
+    dbp:length 2.52e+02 ;
+    dbp:weight 2.2e+04 ;
+    dbp:wheelbase 1.4e+02 ;
+    dbp:width 9.6e+01 .
+
+<http://dbpedia.org/resource/Peugeot_2008> a dbo:Automobile ;
+    rdfs:label "Peugeot 2008"@en ;
+    dbp:length 4.3e+03 ;
+    dbp:wheelbase 2.605e+03 .
+
+<http://dbpedia.org/resource/Peugeot_205> a dbo:Automobile ;
+    rdfs:label "Peugeot 205"@en ;
+    dbp:length 3.705e+03 ;
+    dbp:wheelbase 2.42e+03 .
+
+<http://dbpedia.org/resource/Peugeot_208_T16> a dbo:Automobile ;
+    rdfs:label "Peugeot 208 T16"@en ;
+    dbp:length 3.962e+03 ;
+    dbp:weight 1.2e+03 ;
+    dbp:wheelbase 2.56e+03 ;
+    dbp:width 1.82e+03 .
+
+<http://dbpedia.org/resource/Peugeot_3008> a dbo:Automobile ;
+    rdfs:label "Peugeot 3008"@en ;
+    dbp:length 4.45e+03 ;
+    dbp:wheelbase 2.675e+03 .
+
+<http://dbpedia.org/resource/Peugeot_308> a dbo:Automobile ;
+    rdfs:label "Peugeot 308"@en ;
+    dbp:length 4.253e+03 ;
+    dbp:wheelbase 2.675e+03 .
+
+<http://dbpedia.org/resource/Peugeot_508> a dbo:Automobile ;
+    rdfs:label "Peugeot 508"@en ;
+    dbp:length 4.75e+03 ;
+    dbp:wheelbase 2.795e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Piaggio_Ape> a dbo:Automobile ;
+    rdfs:label "Piaggio Ape"@en ;
+    dbp:length 2.49e+02 ;
+    dbp:wheelbase 1.59e+02 ;
+    dbp:width 1.26e+02 .
+
+<http://dbpedia.org/resource/Pontiac_Aztek> a dbo:Automobile ;
+    rdfs:label "Pontiac Aztek"@en ;
+    dbp:length 1.821e+02 ;
+    dbp:weight 3.779e+03 ;
+    dbp:wheelbase 1.083e+02 ;
+    dbp:width 7.37e+01 .
+
+<http://dbpedia.org/resource/Pontiac_Grand_Prix> a dbo:Automobile ;
+    rdfs:label "Pontiac Grand Prix"@en ;
+    dbp:length 1.988e+03 ;
+    dbp:weight 1.99e+03 ;
+    dbp:wheelbase 1.962e+03 ;
+    dbp:width 1.994e+03 .
+
+<http://dbpedia.org/resource/Pontiac_Torpedo> a dbo:Automobile ;
+    rdfs:label "Pontiac Torpedo"@en ;
+    dbp:length 1.94e+03 ;
+    dbp:weight 1.94e+03 ;
+    dbp:wheelbase 1.94e+03 ;
+    dbp:width 1.94e+03 .
+
+<http://dbpedia.org/resource/Pontiac_Trans_Sport> a dbo:Automobile ;
+    rdfs:label "Pontiac Trans Sport"@en ;
+    dbp:length 1.99e+03 ;
+    dbp:weight 3.6e+03 ;
+    dbp:wheelbase 1.2e+02 ;
+    dbp:width 7.27e+01 .
+
+<http://dbpedia.org/resource/Porsche_934/5> a dbo:Automobile ;
+    rdfs:label "Porsche 934/5"@en ;
+    dbp:length 4.128e+03 ;
+    dbp:weight 1.984e+03 ;
+    dbp:wheelbase 2.271e+03 ;
+    dbp:width 1.651e+03 .
+
+<http://dbpedia.org/resource/Rely_H_series> a dbo:Automobile ;
+    rdfs:label "Rely H series"@en ;
+    dbp:length 5e+00 ;
+    dbp:wheelbase 5e+00 .
+
+<http://dbpedia.org/resource/Renault_GS> a dbo:Automobile ;
+    rdfs:label "Renault GS"@en ;
+    dbp:length 3.47e+03 ;
+    dbp:weight 6e+02 ;
+    dbp:wheelbase 2.62e+03 ;
+    dbp:width 1.59e+03 .
+
+<http://dbpedia.org/resource/Renault_PR100> a dbo:Automobile ;
+    rdfs:label "Renault PR100"@en ;
+    dbp:length 1.132e+01 ;
+    dbp:weight 1.44e+01 ;
+    dbp:wheelbase 5.6e+00 ;
+    dbp:width 2.5e+00 .
+
+<http://dbpedia.org/resource/Rover_P4> a dbo:Automobile ;
+    rdfs:label "Rover P4"@en ;
+    dbp:length 1.7125e+02 ;
+    dbp:wheelbase 1.1e+02 .
+
+<http://dbpedia.org/resource/SS_90> a dbo:Automobile ;
+    rdfs:label "SS 90"@en ;
+    dbp:length 3.81e+03 ;
+    dbp:weight 1.143e+03 ;
+    dbp:wheelbase 2.642e+03 ;
+    dbp:width 1.6e+03 .
+
+<http://dbpedia.org/resource/Schuppan_962CR> a dbo:Automobile ;
+    rdfs:label "Schuppan 962CR"@en ;
+    dbp:length 4.28e+03 ;
+    dbp:weight 1.05e+03 ;
+    dbp:wheelbase 2.794e+03 ;
+    dbp:width 1.999e+03 .
+
+<http://dbpedia.org/resource/Sisu_A-45> a dbo:Automobile ;
+    rdfs:label "Sisu A-45"@en ;
+    dbp:length 5.7e+03 ;
+    dbp:weight 5e+03 ;
+    dbp:wheelbase 3.4e+03 ;
+    dbp:width 2.3e+03 .
+
+<http://dbpedia.org/resource/Sisu_SA-150> a dbo:Automobile ;
+    rdfs:label "Sisu SA-150"@en ;
+    dbp:length 6.76e+03 ;
+    dbp:weight 7.6e+03 ;
+    dbp:wheelbase 3.85e+03 ;
+    dbp:width 2.48e+03 .
+
+<http://dbpedia.org/resource/Stoewer_Arkona> a dbo:Automobile ;
+    rdfs:label "Stoewer Arkona"@en ;
+    dbp:length 5.1e+03 ;
+    dbp:weight 1.54e+03 ;
+    dbp:wheelbase 3.15e+03 ;
+    dbp:width 1.76e+03 .
+
+<http://dbpedia.org/resource/Stoewer_Sedina> a dbo:Automobile ;
+    rdfs:label "Stoewer Sedina"@en ;
+    dbp:length 4.6e+03 ;
+    dbp:wheelbase 2.9e+03 ;
+    dbp:width 1.72e+03 .
+
+<http://dbpedia.org/resource/Suzuki_Carry> a dbo:Automobile ;
+    rdfs:label "Suzuki Carry"@en ;
+    dbp:length 3.195e+03 ;
+    dbp:wheelbase 1.84e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Tata_Tiago_EV> a dbo:Automobile ;
+    rdfs:label "Tata Tiago EV"@en ;
+    dbp:length 3.769e+03 ;
+    dbp:weight 1.235e+03 ;
+    dbp:wheelbase 2.4e+03 ;
+    dbp:width 1.677e+03 .
+
+<http://dbpedia.org/resource/Tatra_30> a dbo:Automobile ;
+    rdfs:label "Tatra 30"@en ;
+    dbp:length 3.7e+03 ;
+    dbp:wheelbase 2.77e+03 .
+
+<http://dbpedia.org/resource/Toyota_Publica> a dbo:Automobile ;
+    rdfs:label "Toyota Publica"@en ;
+    dbp:length 3.645e+03 ;
+    dbp:wheelbase 2.16e+03 .
+
+<http://dbpedia.org/resource/Toyota_RAV4> a dbo:Automobile ;
+    rdfs:label "Toyota RAV4"@en ;
+    dbp:length 3e+00 ;
+    dbp:wheelbase 3e+00 .
+
+<http://dbpedia.org/resource/Toyota_concept_vehicles_(1990–1999)> a dbo:Automobile ;
+    rdfs:label "Toyota concept vehicles (1990–1999)"@en ;
+    dbp:length 4.5e+03 ;
+    dbp:weight 1.46e+03 ;
+    dbp:wheelbase 2.55e+03 ;
+    dbp:width 1.695e+03 .
+
+<http://dbpedia.org/resource/Toyota_concept_vehicles_(2010–2019)> a dbo:Automobile ;
+    rdfs:label "Toyota concept vehicles (2010–2019)"@en ;
+    dbp:length 3.4e+03 ;
+    dbp:weight 7.5e+02 ;
+    dbp:wheelbase 2.65e+03 ;
+    dbp:width 1.75e+03 .
+
+<http://dbpedia.org/resource/Triumph_Renown> a dbo:Automobile ;
+    rdfs:label "Triumph Renown"@en ;
+    dbp:length 2e+03 ;
+    dbp:wheelbase 1.8002e+07 .
+
+<http://dbpedia.org/resource/Unimog_405> a dbo:Automobile ;
+    rdfs:label "Unimog 405"@en ;
+    dbp:length 4.8e+03 ;
+    dbp:wheelbase 2.7e+03 ;
+    dbp:width 2.15e+03 .
+
+<http://dbpedia.org/resource/Vale_Special> a dbo:Automobile ;
+    rdfs:label "Vale Special"@en ;
+    dbp:length 1.32e+02 ;
+    dbp:wheelbase 8.4e+01 ;
+    dbp:width 5.5e+01 .
+
+<http://dbpedia.org/resource/Vauxhall_Prince_Henry> a dbo:Automobile ;
+    rdfs:label "Vauxhall Prince Henry"@en ;
+    dbp:length 1.911e+03 ;
+    dbp:wheelbase 1.911e+03 .
+
+<http://dbpedia.org/resource/Volkswagen_Golf_Mk4> a dbo:Automobile ;
+    rdfs:label "Volkswagen Golf Mk4"@en ;
+    dbp:length 1.998e+03 ;
+    dbp:wheelbase 2.512e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Volkswagen_Polo_Mk4> a dbo:Automobile ;
+    rdfs:label "Volkswagen Polo Mk4"@en ;
+    dbp:length 2.002e+03 ;
+    dbp:wheelbase 2.002e+03 .
+
+<http://dbpedia.org/resource/Yangwang_U8> a dbo:Automobile ;
+    rdfs:label "Yangwang U8"@en ;
+    dbp:length 5.319e+03 ;
+    dbp:weight 3.46e+03 ;
+    dbp:wheelbase 3.05e+03 ;
+    dbp:width 2.2e+02 .
+
+<http://dbpedia.org/resource/Škoda_Karoq> a dbo:Automobile ;
+    rdfs:label "Škoda Karoq"@en ;
+    dbp:length 4.382e+03 ;
+    dbp:wheelbase 2.638e+03 .
+
+<http://dbpedia.org/resource/Škoda_Octavia> a dbo:Automobile ;
+    rdfs:label "Škoda Octavia"@en ;
+    dbp:length 4.659e+03 ;
+    dbp:wheelbase 2.669e+03 ;
+    dbp:width 1.829e+03 .
+

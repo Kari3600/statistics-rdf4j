@@ -1,0 +1,5 @@
+com.kari3600.me.statistics_rdf4j.covariance.CovarianceAggregateFactory
+com.kari3600.me.statistics_rdf4j.covariance.PopulationCovarianceAggregateFactory
+com.kari3600.me.statistics_rdf4j.correlation.pearson.PearsonAggregateFactory
+com.kari3600.me.statistics_rdf4j.correlation.pearson.PopulationPearsonAggregateFactory
+com.kari3600.me.statistics_rdf4j.percentile.PercentileAggregateFactory

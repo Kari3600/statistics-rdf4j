@@ -2,4 +2,6 @@ com.kari3600.me.statistics_rdf4j.covariance.CovarianceAggregateFactory
 com.kari3600.me.statistics_rdf4j.covariance.PopulationCovarianceAggregateFactory
 com.kari3600.me.statistics_rdf4j.correlation.pearson.PearsonAggregateFactory
 com.kari3600.me.statistics_rdf4j.correlation.pearson.PopulationPearsonAggregateFactory
-com.kari3600.me.statistics_rdf4j.percentile.PercentileAggregateFactory
+com.kari3600.me.statistics_rdf4j.percentile.ApproximatePercentileAggregateFactory
+com.kari3600.me.statistics_rdf4j.probability.ConditionalProbabilityAggregateFactory
+com.kari3600.me.statistics_rdf4j.chi_squared.ChiSquaredAggregateFactory

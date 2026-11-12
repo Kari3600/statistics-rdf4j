@@ -1,0 +1,482 @@
+@prefix ex: <http://example.org/> . 
+
+ex:Person1 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person2 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person3 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person4 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person5 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person6 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person7 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person8 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person9 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person10 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person11 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person12 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person13 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person14 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person15 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person16 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person17 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person18 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person19 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person20 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Chocolate" .
+
+ex:Person21 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person22 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person23 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person24 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person25 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person26 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person27 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person28 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person29 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person30 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person31 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person32 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person33 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person34 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person35 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person36 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person37 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person38 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person39 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person40 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person41 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person42 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person43 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person44 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person45 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Chocolate" .
+
+ex:Person46 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person47 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person48 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person49 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person50 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person51 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person52 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person53 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person54 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person55 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person56 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person57 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person58 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person59 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person60 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Vanilla" .
+
+ex:Person61 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person62 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person63 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person64 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person65 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person66 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person67 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person68 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person69 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person70 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person71 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person72 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person73 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person74 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person75 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person76 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person77 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person78 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person79 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person80 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Vanilla" .
+
+ex:Person81 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person82 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person83 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person84 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person85 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person86 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person87 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person88 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person89 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person90 a ex:Person ;
+    ex:gender "Male" ;
+    ex:order "Strawberry" .
+
+ex:Person91 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person92 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person93 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person94 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person95 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person96 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person97 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person98 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person99 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person100 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person101 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person102 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person103 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person104 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person105 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person106 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person107 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person108 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person109 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person110 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person111 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person112 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person113 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person114 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person115 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person116 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person117 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person118 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person119 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+
+ex:Person120 a ex:Person ;
+    ex:gender "Female" ;
+    ex:order "Strawberry" .
+

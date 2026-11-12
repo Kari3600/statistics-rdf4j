@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ProbabilityTest {
     @Test
     public void testEarthquakesCasualtiesGreaterThan1000() {
-        assertEquals(0.2245088, query1Group1Var("earthquakes.ttl",
+        assertEquals(0.225, query1Group1Var("earthquakes.ttl",
                 """
                 PREFIX dbo: <http://dbpedia.org/ontology/>
                 PREFIX dbp: <http://dbpedia.org/property/>
@@ -17,6 +17,21 @@ public class ProbabilityTest {
                     ?city a dbo:Earthquake ;
                     dbp:casualties ?casualties .
                 }
-                """, "prob").floatValue(), 0.001);
+                """, "prob").doubleValue(), 0.001);
+    }
+
+    @Test
+    public void testEarthquakesCasualtiesGreaterThan1000IfMagnitudeGreaterThan8() {
+        assertEquals(0.333, query1Group1Var("earthquakes.ttl",
+                """
+                PREFIX dbo: <http://dbpedia.org/ontology/>
+                PREFIX dbp: <http://dbpedia.org/property/>
+                SELECT (stat:p(?casualties > 1000, ?magnitude > 8) AS ?prob)
+                WHERE {
+                    ?city a dbo:Earthquake ;
+                    dbp:casualties ?casualties ;
+                    dbp:magnitude ?magnitude .
+                }
+                """, "prob").doubleValue(), 0.001);
     }
 }

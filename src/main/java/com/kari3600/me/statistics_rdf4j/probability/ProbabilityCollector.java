@@ -12,7 +12,7 @@ public class ProbabilityCollector extends SimpleAggregateCollector {
 
     @Override
     public Value computeValue() {
-        return SimpleValueFactory.getInstance().createLiteral((float) matches / total);
+        return SimpleValueFactory.getInstance().createLiteral((double) matches / total);
     }
 
     @Override

@@ -7,7 +7,7 @@ import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.model.impl.SimpleValueFactory;
 import org.eclipse.rdf4j.query.algebra.evaluation.ValueExprEvaluationException;
 
-public class PercentileAggregateCollector extends SimpleAggregateNAryCollector {
+public class ApproximatePercentileCollector extends SimpleAggregateNAryCollector {
     private final TDigestAggregateCollector delegate = new TDigestAggregateCollector() {
         @Override
         protected Value computeValue() {

@@ -11,6 +11,9 @@ public class ApproximatePercentileCollector extends SimpleAggregateNAryCollector
     private final TDigestAggregateCollector delegate = new TDigestAggregateCollector() {
         @Override
         protected Value computeValue() {
+            if (percentile == null) {
+                return null;
+            }
             return SimpleValueFactory.getInstance().createLiteral(
                     tdigest.getQuantile(percentile)
             );

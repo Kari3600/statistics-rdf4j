@@ -12,7 +12,7 @@ public class PercentileTest {
                 """
                 PREFIX dbo: <http://dbpedia.org/ontology/>
                 PREFIX dbp: <http://dbpedia.org/property/>
-                SELECT (stat:percentile(?magnitude, 0.9) AS ?percentile)
+                SELECT (stat:approx_percentile(?magnitude, 0.9) AS ?percentile)
                 WHERE {
                     ?city a dbo:Earthquake ;
                     dbp:magnitude ?magnitude .
@@ -22,7 +22,7 @@ public class PercentileTest {
                 """
                 PREFIX dbo: <http://dbpedia.org/ontology/>
                 PREFIX dbp: <http://dbpedia.org/property/>
-                SELECT (stat:percentile(?magnitude, 0.1) AS ?percentile)
+                SELECT (stat:approx_percentile(?magnitude, 0.1) AS ?percentile)
                 WHERE {
                     ?city a dbo:Earthquake ;
                     dbp:magnitude ?magnitude .

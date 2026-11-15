@@ -27,6 +27,10 @@ jobs:
         java-version: '25'
         distribution: 'temurin'
         cache: maven
+    - name: Setup settings.xml
+      uses: Kari3600/maven-settings-setup@main
+      with:
+        repositories: "github-utils,github-rdf4j"
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 

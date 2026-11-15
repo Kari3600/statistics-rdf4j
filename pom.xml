@@ -12,6 +12,20 @@
         <maven.compiler.source>23</maven.compiler.source>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>github-utils</id>
+            <url>https://maven.pkg.github.com/Kari3600/Utils</url>
+        </repository>
+        <!--
+        Temporary repository until the fork changes get pulled into main
+        -->
+        <repository>
+            <id>github-rdf4j</id>
+            <url>https://maven.pkg.github.com/Kari3600/rdf4j</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.eclipse.rdf4j</groupId>
@@ -21,7 +35,7 @@
         </dependency>
         <dependency>
             <groupId>com.kari3600.me</groupId>
-            <artifactId>Utils</artifactId>
+            <artifactId>utils</artifactId>
             <version>1.0.1</version>
         </dependency>
 

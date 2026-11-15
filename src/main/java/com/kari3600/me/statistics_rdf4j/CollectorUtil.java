@@ -2,6 +2,7 @@ package com.kari3600.me.statistics_rdf4j;
 
 import org.eclipse.rdf4j.model.Literal;
 import org.eclipse.rdf4j.model.Value;
+import org.eclipse.rdf4j.model.base.CoreDatatype;
 import org.eclipse.rdf4j.model.impl.BooleanLiteral;
 import org.eclipse.rdf4j.query.algebra.evaluation.ValueExprEvaluationException;
 
@@ -9,6 +10,15 @@ public class CollectorUtil {
     public static boolean asBoolean(Value val) throws ValueExprEvaluationException {
         if (val instanceof BooleanLiteral nextLiteral) {
             return nextLiteral.booleanValue();
+        } else if (val instanceof Literal nextLiteral) {
+            if (nextLiteral.getCoreDatatype()
+                    .asXSDDatatype()
+                    .orElseThrow(() -> new ValueExprEvaluationException(val + " is not an XSD type literal"))
+                    .equals(CoreDatatype.XSD.BOOLEAN)) {
+                return nextLiteral.booleanValue();
+            } else {
+                throw new ValueExprEvaluationException("XSD literal is not a boolean: " + val);
+            }
         } else {
             throw new ValueExprEvaluationException("not a boolean literal: " + val);
         }
